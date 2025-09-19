@@ -4,4 +4,7 @@ The notebooks contained in this directory are:
   - Filters the datasets to remove any points or structures that do not yield smooth VSSE vs. HFX curves.
 - `IP Tuning Targets.ipynb`:
   - Determines the best single HFX as to match the fundamental gap to the HOMO-LUMO gap. Generates data for the tuned approach. Also shows the dataset sizes after filtering out structures with insufficient converged calculations.
-
+- `Visualize HFX Curves.ipynb`:
+  - Visualizes the VSSE vs. HFX curves for each structure.
+- `Target Generation.ipynb`:
+  - Determines the optimal amount of HFX to use with a semilocal functional as to approximate DLPNO-CCSD(T).
