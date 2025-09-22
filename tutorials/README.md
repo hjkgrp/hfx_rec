@@ -8,3 +8,5 @@ The notebooks contained in this directory are:
   - Visualizes the VSSE vs. HFX curves for each structure.
 - `Target Generation.ipynb`:
   - Determines the optimal amount of HFX to use with a semilocal functional as to approximate DLPNO-CCSD(T).
+- `Visualize Errors.ipynb`:
+  - Helps visualize predictions on VSSE vs. HFX curves. Also demonstrates how to get errors in energy units from the HFX predictions.
