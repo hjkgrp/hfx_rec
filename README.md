@@ -3,5 +3,7 @@ The folder structure is as follows:
 - `tutorials` contains notebooks demonstrating how to reproduce the results reported in the main text.
 - `figures` contains notebooks that generate the figures used in the main text.
 - `analyses` contains notebooks that reproduce the results produced in the supporting information, which are not needed for a core understanding of how the data / models were generated.
+- `ml_features` contains notebooks generating the features used for the models in this work, as well as files containing the features.
+- `ml_training` contains notebooks analyzing ML performance, as well as scripts to train the models reported and files containing these models' predictions.
 
 Each folder contains its own README which gives a brief overview of the files in that directory.
