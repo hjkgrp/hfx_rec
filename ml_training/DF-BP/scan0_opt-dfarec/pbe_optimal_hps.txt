@@ -1,0 +1,5 @@
+
+n_out: 8
+n_hidden: 16
+n_layers: 5
+droprate: 0
