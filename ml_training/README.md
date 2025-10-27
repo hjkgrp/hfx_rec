@@ -8,3 +8,5 @@ The files contained in this directory are:
 - The `racs_replicate_dfbp_set` folder:
   - Contains `<functional>-<dataset>_racs_predictions.csv` files, containing the predictions of RACs-based ML models when predicting on functional when using the same train/val split as DF-BP models, as well as `<functional>_racs_replicate.py` scripts, which train RF models using the same splits as PBE0-PBEx or SCAN0-SCANx.
 - `RACs Assessment.ipynb`: evaluates the error in RACs-based ML models.
+- `RACs DF Replicate Assessment.ipynb`: evaluates the RF RACs models trained with the same train/val split as DF-BP models.
+- `DF-BP Assessment.ipynb`: evaluates the DF-BP models trained in this work, as well as auxillary analyses.
