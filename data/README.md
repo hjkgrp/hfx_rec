@@ -12,4 +12,5 @@ The files contained in this directory are:
   - Contains the tuned HFX for both PBE and SCAN in both the LS and HS states, defined as the single HFX that maximizes agreement between the HOMO-LUMO and fundamental gaps.
 - `CSD76targets.csv` and `VSS452targets.csv`:
   - Contains the optimal HFX for each structure, defined as the single HFX that maximizes agreement between the DLPNO-CCSD(T) VSSE and the VSSE calculated when using that HFX.
-- 
+- `csd76_chargeox.csv`:
+  - Contains the metal oxidation state and total ligand charge of all structures in CSD-76.
