@@ -10,3 +10,5 @@ The notebooks contained in this directory are:
   - Determines the optimal amount of HFX to use with a semilocal functional as to approximate DLPNO-CCSD(T).
 - `Visualize Errors.ipynb`:
   - Helps visualize predictions on VSSE vs. HFX curves. Also demonstrates how to get errors in energy units from the HFX predictions.
+- `Convert HFX Predictions to Energies.ipynb`:
+  - Demonstrates how to convert a predicted HFX% to a VSSE prediction. Also writes files containing model predictions in kcal/mol for all prediction approaches tested.
