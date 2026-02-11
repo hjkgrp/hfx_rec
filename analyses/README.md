@@ -4,3 +4,8 @@ The notebooks in this folder are as follows:
 -  `IP Tuning Analysis.ipynb`: analyzes the optimally tuned HFX values and compares them to the optimal values in CSD-76-HFX. Corresponds to results in main text section 3c.
 -  `Comparison of Fundamental Gaps.ipynb`: analyzes the performance of several approaches in terms of aligning the HOMO-LUMO and fundamental gaps.
 -  `DF-BP VAT.ipynb`: demonstrates how to perform the VAT analysis, gives the feature importance for structures highlighted in main text.
+-  `EcorrT diagnostics.ipynb`: gives the distributions of MR diagnostics reported for the DLPNO-CCSD(T) references.
+-  `Systematic Error Effects.ipynb`: demonstrates how energy errors change as the optimal HFX is systematically under/overestimated by some constant.
+-  `Fitted HFX by Metal.ipynb`: analyzes the performance of fitted and transferred functionals on metal-specific subsets of the data.
+-  `Compare Charges.ipynb`: compares the metal partial charge obtained from various densities.
+-  `Model case studies.ipynb`: examines the errors in the DF-BP PBEx model in a metal- and ligand field strength-specific fashion.

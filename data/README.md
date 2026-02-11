@@ -14,3 +14,7 @@ The files contained in this directory are:
   - Contains the optimal HFX for each structure, defined as the single HFX that maximizes agreement between the DLPNO-CCSD(T) VSSE and the VSSE calculated when using that HFX.
 - `csd76_chargeox.csv`:
   - Contains the metal oxidation state and total ligand charge of all structures in CSD-76.
+- `csd_hs_diagnostics.csv` and `vss_hs_diagnostics.csv`:
+  - Contains the %EcorrT diagnostics for the high-spin state for structures in CSD-76 and VSS-452, respectively. Energies are given in a.u. and EcorrT is given as a percentage.
+- `csd76_charge_comparison.csv`:
+  - Contains the partial charges from DLPNO-CCSD, PBE0, optimal PBEx, and DF-BP based PBEx using PBE0 densities as input and random seed 5.

@@ -3,3 +3,4 @@ job*
 *.sh
 orig-*
 figures/*
+additional/*
